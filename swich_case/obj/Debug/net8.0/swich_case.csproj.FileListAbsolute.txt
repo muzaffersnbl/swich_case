@@ -1,0 +1,14 @@
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\obj\Debug\net8.0\swich_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\obj\Debug\net8.0\swich_case.AssemblyInfoInputs.cache
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\obj\Debug\net8.0\swich_case.AssemblyInfo.cs
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\obj\Debug\net8.0\swich_case.csproj.CoreCompileInputs.cache
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\bin\Debug\net8.0\swich_case.exe
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\bin\Debug\net8.0\swich_case.deps.json
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\bin\Debug\net8.0\swich_case.runtimeconfig.json
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\bin\Debug\net8.0\swich_case.dll
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\bin\Debug\net8.0\swich_case.pdb
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\obj\Debug\net8.0\swich_case.dll
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\obj\Debug\net8.0\refint\swich_case.dll
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\obj\Debug\net8.0\swich_case.pdb
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\obj\Debug\net8.0\swich_case.genruntimeconfig.cache
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\swich_case\obj\Debug\net8.0\ref\swich_case.dll
